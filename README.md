@@ -2,6 +2,7 @@
 probably the fastest non-bullshit fizzbuzz
 
 baby fizzbuzz:
+```
 587
 576
 579
@@ -23,8 +24,10 @@ baby fizzbuzz:
 579
 580
 Average time for 5000000 iterations (sample size: 20): 578ms
+```
 
 cool iterative fizzbuzz (no modulo):
+```
 567
 529
 531
@@ -46,8 +49,10 @@ cool iterative fizzbuzz (no modulo):
 529
 534
 Average time for 5000000 iterations (sample size: 20): 531ms
+```
 
 big dick:
+```
 298
 290
 278
@@ -69,3 +74,4 @@ big dick:
 278
 280
 Average time for 5000000 iterations (sample size: 20): 280ms
+```
